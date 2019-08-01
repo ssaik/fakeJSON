@@ -1,11 +1,17 @@
 {
-  "posts": [
+  "posts" : [
     {
-      "id": 1,
-      "title": "hello"
+      "title" : "t1",
+      "postby" : "person1"
+    },
+    
+    {
+      "title" : "t3",
+      "postby" : "person3"
+    },
+    
+    {
+      "title" : "t2",
+      "postby" : "person2"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
